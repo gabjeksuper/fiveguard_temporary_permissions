@@ -4,7 +4,7 @@ This resource will help you to manage temporary permissions for Fiveguard.
 
 # Installation
 
-- [Download](https://github.com/gabjeksuper/fiveguard_temporary_permissions) the script
+- [Download](https://codeload.github.com/gabjeksuper/fiveguard_temporary_permissions/zip/refs/heads/main) the script
 - Extract and remove the ```-main``` at the end of the folder name
 - Configure it as you prefer in the config.lua file
 
