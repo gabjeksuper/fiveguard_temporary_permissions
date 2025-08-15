@@ -32,3 +32,9 @@ The script has been brought to you by the one and only unique FiveM anticheat, [
 Originally made by maco05 and finally updated and reuploaded by gabjeksuper.
 
 Also credits to [Offsey's Addon](https://github.com/OffSey/addon) with its "Package Addon" providing pre-built bypasses for RTX Theme Park, Rcore Clothing and Rcore Luna Park.
+
+
+# Others
+
+Not sure how to properly configure your Fiveguard? Check out our website, created by Fiveguard staff team.
+🌐 Website https://gabjeksuper.github.io/fiveguard-configuration/
