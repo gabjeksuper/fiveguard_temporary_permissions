@@ -37,4 +37,5 @@ Also credits to [Offsey's Addon](https://github.com/OffSey/addon) with its "Pack
 # Others
 
 Not sure how to properly configure your Fiveguard? Check out our website, created by Fiveguard staff team.
+
 🌐 Website https://gabjeksuper.github.io/fiveguard-configuration/
