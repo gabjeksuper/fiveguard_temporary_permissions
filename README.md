@@ -4,6 +4,7 @@ This resource will help you to manage temporary permissions for Fiveguard.
 
 # Installation
 
+- [Download](https://github.com/gabjeksuper/fiveguard_temporary_permissions) the script
 - Extract and remove the ```-main``` at the end of the folder name
 - Configure it as you prefer in the config.lua file
 
@@ -30,4 +31,4 @@ The script has been brought to you by the one and only unique FiveM anticheat, [
 
 Originally made by maco05 and finally updated and reuploaded by gabjeksuper.
 
-Also credits to [Offsey]https://github.com/OffSey/addon with its "Package Addon" providing pre-built bypasses for RTX Theme Park, Rcore Clothing and Rcore Luna Park.
+Also credits to [Offsey](https://github.com/OffSey/addon) with its "Package Addon" providing pre-built bypasses for RTX Theme Park, Rcore Clothing and Rcore Luna Park.
