@@ -31,4 +31,4 @@ The script has been brought to you by the one and only unique FiveM anticheat, [
 
 Originally made by maco05 and finally updated and reuploaded by gabjeksuper.
 
-Also credits to [Offsey](https://github.com/OffSey/addon) with its "Package Addon" providing pre-built bypasses for RTX Theme Park, Rcore Clothing and Rcore Luna Park.
+Also credits to [Offsey's Addon](https://github.com/OffSey/addon) with its "Package Addon" providing pre-built bypasses for RTX Theme Park, Rcore Clothing and Rcore Luna Park.
